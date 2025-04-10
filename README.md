@@ -27,8 +27,7 @@ Build it using script file:
 
 Or manually:
 ``
-  cmake .
-  make
+  cmake . && make
 ``
 
 Then run and play!
