@@ -1,0 +1,7 @@
+# ninja log v6
+1	142	1744202091582662377	CMakeFiles/FlappyBird.dir/Scene.cpp.o	dff6ec788504383f
+1	31	1744202036928257680	CMakeFiles/FlappyBird.dir/player.cpp.o	15c5ba7aa4ec14c2
+323	408	1744273594341262944	FlappyBird	7a8496d5725ffad7
+2	35	1744197335162720114	CMakeFiles/FlappyBird.dir/Pipe.cpp.o	5073a820c9839cc9
+1	323	1744273594019255557	CMakeFiles/FlappyBird.dir/main.cpp.o	cf19922c6acb0f9c
+1	23	1744276302404661418	build.ninja	dc7ebc828d7fd3d0

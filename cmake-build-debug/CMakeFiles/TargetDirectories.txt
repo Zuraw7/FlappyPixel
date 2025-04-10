@@ -1,0 +1,3 @@
+/home/zuraw/Desktop/FlappyPixel/cmake-build-debug/CMakeFiles/FlappyBird.dir
+/home/zuraw/Desktop/FlappyPixel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zuraw/Desktop/FlappyPixel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
